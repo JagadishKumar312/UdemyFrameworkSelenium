@@ -1,0 +1,24 @@
+2023-09-07 09:10:18,265 : INFO : test_formSubmission : first name isJagdish 
+2023-09-07 09:10:18,653 : INFO : test_formSubmission : email isjaggu.career@gmail.com 
+2023-09-07 09:10:21,022 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:10:26,899 : INFO : test_formSubmission : first name isKumar 
+2023-09-07 09:10:26,899 : INFO : test_formSubmission : first name isKumar 
+2023-09-07 09:10:26,978 : INFO : test_formSubmission : email isjagadish.kumar@gmail.com 
+2023-09-07 09:10:26,978 : INFO : test_formSubmission : email isjagadish.kumar@gmail.com 
+2023-09-07 09:10:29,129 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:10:29,129 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:10:45,195 : INFO : test_e2etesting : getting all the card titles 
+2023-09-07 09:10:49,747 : INFO : test_e2etesting : Entering country name as Ind 
+2023-09-07 09:10:57,260 : INFO : test_e2etesting : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2023-09-07 09:53:18,786 : INFO : test_formSubmission : first name isJagdish 
+2023-09-07 09:53:19,339 : INFO : test_formSubmission : email isjaggu.career@gmail.com 
+2023-09-07 09:53:21,640 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:53:27,444 : INFO : test_formSubmission : first name isKumar 
+2023-09-07 09:53:27,444 : INFO : test_formSubmission : first name isKumar 
+2023-09-07 09:53:27,523 : INFO : test_formSubmission : email isjagadish.kumar@gmail.com 
+2023-09-07 09:53:27,523 : INFO : test_formSubmission : email isjagadish.kumar@gmail.com 
+2023-09-07 09:53:29,675 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:53:29,675 : INFO : test_formSubmission : selecting the gender 
+2023-09-07 09:53:49,989 : INFO : test_e2etesting : getting all the card titles 
+2023-09-07 09:53:54,403 : INFO : test_e2etesting : Entering country name as Ind 
